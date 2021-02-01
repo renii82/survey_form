@@ -1,0 +1,47 @@
+body{ 
+    font-family: "Raleway", sans-serif;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  main {
+    margin-bottom: 0px;
+  }
+  
+  #title {
+    font-family: "Orbitron", sans-serif;
+  }
+  
+  
+  .container {
+    display:flex;
+    flex-direction: column;
+    border: none;
+    width: 520px;
+    margin-bottom: 35px !important;
+    margin:auto;
+  }
+  
+  select {
+    width: 530px;
+    height: 40px;
+    text-align: center;
+    font-family: "Open Sans"
+  }
+  
+  label, legend {
+    margin-bottom: 8px;
+  }
+  
+  #survey-form {
+    background-image: url("https://www.teahub.io/photos/full/6-63004_watercolor-background-wallpaper-hd-watercolor-google-slide-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    padding: 30px;
+  }
+  
+  
+  
